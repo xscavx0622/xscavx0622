@@ -33,6 +33,7 @@ So if you ever need a digital adventurer to help bring your visions to life, loo
 <img align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <br />
 
+---
          
           
 
