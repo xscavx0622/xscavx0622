@@ -12,6 +12,7 @@ With every victory, he grew stronger, more skilled, and more attuned to the ways
 
 So if you ever need a digital adventurer to help bring your visions to life, look no further than Rock, boldly exploring the final frontier of the digital galaxy, armed with his trusty sword and his unbridled passion for javascript! 
 
+---
 
 ### Visualization of the Hypercube Interdimensional Thyraxian toolbelt :
 
